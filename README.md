@@ -1,6 +1,14 @@
 # 개요
 > 이 스터디에 대해서 설명합니다.
-> 추후 인원이 확정되면 참여 인원을 명시합니다.
+
+# 참여 인원
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><img src="https://avatars.githubusercontent.com/u/17216686?v=4" width="100px;" alt="choiseonmun"/><br /><sub><a href="https://github.com/choiseonmun"><b>choiseonmun</b></a></sub><br /></td>
+    </tr>
+  </tbody>
+</table>
 
 # 진행 기간
 > 언제까지 진행이 되고, 각 주마다 어떤 주제로 모일지 결정합니다.
